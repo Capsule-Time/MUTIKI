@@ -7,5 +7,6 @@ The next generation frontend of UJN ISE.
 ```
 .
 ├── public   代码存放目录
+├── outline  布局大纲
 └── 文档      文档目录
 ```
